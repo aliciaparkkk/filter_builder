@@ -8,9 +8,9 @@ This is a beginner-friendly photo filter tool that applies  filters to images. T
 
 Applies 3 different filters to any image:
 
-**Warm Tone**: Boosts red, reduces blue for a cozy look
-**Pastel Mood**: Brightens and desaturates colors for a soft pastel vibe
-**Black & White with Grain**: Converts to grayscale and adds film-style grain
+- **Warm Tone**: Boosts red, reduces blue for a cozy look
+- **Pastel Mood**: Brightens and desaturates colors for a soft pastel vibe
+- **Black & White with Grain**: Converts to grayscale and adds film-style grain
 
 ---
 
